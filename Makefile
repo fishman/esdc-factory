@@ -17,6 +17,7 @@ BUILD_TARGETS =	base-centos-6 \
 				contrib-centos-7-desktop \
 				contrib-odoo \
 				contrib-opnsense \
+				contrib-ubuntu-bionic \
 				contrib-ubuntu-focal
 
 define newline
